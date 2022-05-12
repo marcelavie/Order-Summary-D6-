@@ -1,0 +1,78 @@
+body{
+    font-family:'Red Hat Display', sans-serif; 
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: rgb(224, 232, 255)
+}
+.box{
+    height: 455px;
+    width: 300px;
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+ 
+}
+img{
+    width: 300px;
+    border-radius: 10px 10px 0px 0px;
+
+}
+h1{
+    font-weight: 900;
+    font-size: 16px;
+}
+h3{
+    font-size: 16px;
+    font-weight: 400;
+    color: hsl(232deg 11% 59%);
+}
+h2{
+    color: aqua;
+    text-align: center;
+    font-size: 15px;
+}
+.boxplan{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    width: px;
+    background-color: #f8f9fe;
+    border-radius: 10px;
+    color:#4d5874;
+    padding: 10px;
+}
+.sub-boxplan{
+    
+}
+.music{
+    width: 50px;
+}
+.Payment{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 210px;
+    background-color: #455ee1;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 700;
+    margin-left: 50px;
+    margin-top: 10px;
+    box-shadow: 0px 10px 10px #dddafa;
+}
+.ap{
+    color: black;
+    font-weight: 900;
+}
+.final{
+    color: #8f94a7 ;
+    font-weight: 700;
+    margin-top: 10px;
+}
